@@ -1,4 +1,4 @@
-# books
+# Books
 Books I've read, reading, want to read with reviews
 
 ( ・◇・)？- Haven't read yet  
