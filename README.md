@@ -9,6 +9,9 @@ Books I've read, reading, want to read with reviews
 ## Software Development
 ( ・◇・)？- [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
 
+## Object-Oriented Design
+( ・◇・)？- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+
 ## Motivation
 ( 　ﾟ,_ゝﾟ) - [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X) (1st read-through)
 
