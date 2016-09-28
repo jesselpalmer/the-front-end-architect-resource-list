@@ -7,8 +7,8 @@ Books I've read, reading, want to read with reviews
 ( 　ﾟ,_ゝﾟ) - Reading  
 
 ## Software Development
-( ・◇・)？- [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)
-( ・◇・)？- [Software Estimation: Demystifying the Black Art](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351)
+( ・◇・)？- [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)    
+( ・◇・)？- [Software Estimation: Demystifying the Black Art](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351)    
 ( ・◇・)？- [Rapid Development: Taming Wild Software Schedules](https://www.amazon.com/gp/product/1556159005/)
 
 ## Object-Oriented Design
