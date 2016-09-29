@@ -20,3 +20,6 @@ Books I've read, reading, want to read with reviews
 
 ## Writing
 ( 　ﾟ,_ゝﾟ) - [The Mircle Morning for Writers](https://www.amazon.com/Miracle-Morning-Writers-Writing-Increases/dp/1942589050) (1st read-through)
+
+## Finances
+( 　ﾟ,_ゝﾟ) - [The Millionaire Booklet](https://www.amazon.com/The-Millionaire-Booklet/dp/B01IRTK2SU) (1st read-through)
