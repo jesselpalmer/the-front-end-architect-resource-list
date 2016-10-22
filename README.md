@@ -17,13 +17,15 @@ Books I've read, reading, want to read with reviews
 ( ・◇・)？- [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
 
 ## Motivation
-( 　ﾟ,_ゝﾟ) - [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X) (1st read-through)
+( ・◇・)？- [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X)    
 
 ## Writing
-( 　ﾟ,_ゝﾟ) - [The Mircle Morning for Writers](https://www.amazon.com/Miracle-Morning-Writers-Writing-Increases/dp/1942589050) (1st read-through)
-
+( 　ﾟ,_ゝﾟ) - [The Mircle Morning for Writers](https://www.amazon.com/Miracle-Morning-Writers-Writing-Increases/dp/1942589050)     
 ## Finances
 ໒( ･ Ĺ̯ ･ )७ - [The Millionaire Booklet](https://www.amazon.com/The-Millionaire-Booklet/dp/B01IRTK2SU) 
 
 ## Productivity
-( 　ﾟ,_ゝﾟ) - [Mini Habits](https://www.amazon.com/Mini-Habits-Smaller-Bigger-Results-ebook/dp/B00HGKNBDK) (1st read-through)   
+( ´ ▽ ` )ﾉ - [Mini Habits](https://www.amazon.com/Mini-Habits-Smaller-Bigger-Results-ebook/dp/B00HGKNBDK)   
+
+## Leadership
+( 　ﾟ,_ゝﾟ) - [The Score Takes Care of Itself](https://www.amazon.com/Score-Takes-Care-Itself-Philosophy/dp/1591843472)
