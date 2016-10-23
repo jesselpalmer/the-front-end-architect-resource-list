@@ -10,7 +10,8 @@ Books I've read, reading, want to read with reviews
 ## Software Development
 ( ・◇・)？- [Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959)    
 ( ・◇・)？- [Software Estimation: Demystifying the Black Art](https://www.amazon.com/Software-Estimation-Demystifying-Developer-Practices/dp/0735605351)    
-( ・◇・)？- [Rapid Development: Taming Wild Software Schedules](https://www.amazon.com/gp/product/1556159005/)
+( ・◇・)？- [Rapid Development: Taming Wild Software Schedules](https://www.amazon.com/gp/product/1556159005/)    
+( 　ﾟ,_ゝﾟ) - [Pragmatic Thinking and Learning](https://www.amazon.com/Pragmatic-Thinking-Learning-Refactor-Programmers/dp/1934356050)
 
 ## Object-Oriented Design
 ( ・◇・)？- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)    
