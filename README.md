@@ -9,6 +9,48 @@
 
 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)    
 
+## Newsletters
+
+### Leadership
+[Software Lead Weekly](http://softwareleadweekly.com/)    
+[Tech Leadership Weekly](http://www.techleadershipweekly.com/)    
+[Herding Cats](https://herdingcats.curated.co/)    
+[Monday Mailer](https://briangilham.com/newsletter/)   
+
+### Software Engineering
+[The Effective Engineer](http://www.theeffectiveengineer.com/)    
+
+### JavaScript
+[Pony Foo Weekly](https://ponyfoo.com/weekly)    
+[JavaScript Weekly](http://javascriptweekly.com/)    
+
+### Web
+[O’Reilly Web Newsletter](http://www.oreilly.com/web-platform/newsletter.html)     
+
+### Front End
+[FrontEnd Focus](http://frontendfocus.co/)    
+
+### Mobile Web   
+[Mobile Web Weekly](http://mobilewebweekly.co/)    
+
+### CSS
+[CSS Weekly](http://css-weekly.com/)    
+
+### Design    
+[Sidebar](http://sidebar.io/)    
+
+### Node.js
+[Rising Stack](https://blog.risingstack.com/)    
+
+## Interviewing
+### Front End Specific
+[Interview Questions for front-end-Developer](http://thatjsdude.com/interview/index.html)    
+[Front End Web Development Quiz](http://davidshariff.com/quiz/)    
+[Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)    
+
+### Node.js
+[Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) from RisingStack Engineering 
+
 ## Books
 
 ### JavaScript    
