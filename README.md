@@ -9,6 +9,14 @@
 
 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)    
 
+## Skill building
+
+### Vi
+[Open Vim](http://www.openvim.com/)    
+
+### Keyboarding
+[Type Fu](https://chrome.google.com/webstore/detail/type-fu/pofoighmmpljaikjiidkkfhldjndfdbk)    
+
 ## Newsletters
 
 ### Leadership
