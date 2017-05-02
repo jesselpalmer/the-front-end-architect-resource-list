@@ -79,6 +79,7 @@
 
 ### Motivation
 [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X)    
+[Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
 
 ### Writing
 [The Mircle Morning for Writers](https://www.amazon.com/Miracle-Morning-Writers-Writing-Increases/dp/1942589050)     
