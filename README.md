@@ -34,6 +34,7 @@
 
 ### Web
 [O’Reilly Web Newsletter](http://www.oreilly.com/web-platform/newsletter.html)     
+[What Happens When You Type google.com Into Your Browser and Press Enter?](https://github.com/alex/what-happens-when)
 
 ### Front End
 [FrontEnd Focus](http://frontendfocus.co/)    
