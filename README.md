@@ -59,6 +59,9 @@
 ### Node.js
 [Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) from RisingStack Engineering 
 
+## Training
+[Treehouse](https://teamtreehouse.com)    
+
 ## Books
 
 ### JavaScript    
@@ -72,7 +75,7 @@
 
 ### Object-Oriented Design
 [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)    
-[Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
+[Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)    
 
 ### Motivation
 [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X)    
