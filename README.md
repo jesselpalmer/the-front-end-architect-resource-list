@@ -51,6 +51,10 @@
 [Rising Stack](https://blog.risingstack.com/)    
 
 ## Interviewing
+
+### General
+[Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?s=books&ie=UTF8&qid=1493729511&sr=1-1&keywords=cracking+the+coding+interview)
+
 ### Front End Specific
 [Interview Questions for front-end-Developer](http://thatjsdude.com/interview/index.html)    
 [Front End Web Development Quiz](http://davidshariff.com/quiz/)    
