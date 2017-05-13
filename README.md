@@ -51,7 +51,7 @@
 ### Node.js
 [Rising Stack](https://blog.risingstack.com/)    
 
-## Interviewing
+## Interview Prep
 
 ### General
 [Cracking the Coding Interview: 189 Programming Questions and Solutions 6th Edition](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?s=books&ie=UTF8&qid=1493729511&sr=1-1&keywords=cracking+the+coding+interview)
@@ -98,4 +98,8 @@
 [The Millionaire Booklet](https://www.amazon.com/The-Millionaire-Booklet/dp/B01IRTK2SU) 
 
 ### Productivity
-[Mini Habits](https://www.amazon.com/Mini-Habits-Smaller-Bigger-Results-ebook/dp/B00HGKNBDK)
+[Mini Habits](https://www.amazon.com/Mini-Habits-Smaller-Bigger-Results-ebook/dp/B00HGKNBDK)    
+
+## Tweets     
+[HTTP What?](https://twitter.com/kosamari/status/859958929484337152/photo/1)    
+
