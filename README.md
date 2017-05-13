@@ -1,4 +1,13 @@
-# The Effective Web Engineer's Handbook
+# The Effective Web Engineer's Handbook    
+
+## Table of Contents
+1. [Websites](#websites)    
+1. [Tools](#tools)    
+1. [Skill building](#skill-building)    
+1. [Newsletters](#newsletters)    
+1. [Interview Prep](#interview-prep)    
+1. [Books](#books)    
+1. [Tweets](#tweets)    
 
 ## Websites
 
