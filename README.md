@@ -7,6 +7,7 @@
 1. [Newsletters](#newsletters)    
 1. [Interview Prep](#interview-prep)    
 1. [Books](#books)    
+1. [Articles](#articles)    
 1. [Tweets](#tweets)    
 
 ## Websites
@@ -43,7 +44,6 @@
 
 ### Web
 [O’Reilly Web Newsletter](http://www.oreilly.com/web-platform/newsletter.html)     
-[What Happens When You Type google.com Into Your Browser and Press Enter?](https://github.com/alex/what-happens-when)
 
 ### Front End
 [FrontEnd Focus](http://frontendfocus.co/)    
@@ -108,6 +108,9 @@
 
 ### Productivity
 [Mini Habits](https://www.amazon.com/Mini-Habits-Smaller-Bigger-Results-ebook/dp/B00HGKNBDK)    
+
+## Articles
+[What Happens When You Type google.com Into Your Browser and Press Enter?](https://github.com/alex/what-happens-when)    
 
 ## Tweets     
 [HTTP What?](https://twitter.com/kosamari/status/859958929484337152/photo/1)    
