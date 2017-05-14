@@ -16,9 +16,13 @@
 [Google Web Fundamentals](https://developers.google.com/web/)    
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/)    
 
+**[⬆ back to top](#table-of-contents)**
+
 ## Tools
 
 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)    
+
+**[⬆ back to top](#table-of-contents)**
 
 ## Skill building
 
@@ -27,6 +31,8 @@
 
 ### Keyboarding
 [Type Fu](https://chrome.google.com/webstore/detail/type-fu/pofoighmmpljaikjiidkkfhldjndfdbk)    
+
+**[⬆ back to top](#table-of-contents)**    
 
 ## Newsletters
 
@@ -61,6 +67,8 @@
 ### Node.js
 [Rising Stack](https://blog.risingstack.com/)    
 
+**[⬆ back to top](#table-of-contents)**     
+
 ## Interview Prep
 
 ### General
@@ -77,7 +85,9 @@
 [Triplebyte](https://triplebyte.com)    
 
 ### Node.js
-[Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) from RisingStack Engineering 
+[Node.js Interview Questions and Answers (2017 Edition)](https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/) from RisingStack Engineering      
+
+**[⬆ back to top](#table-of-contents)**      
 
 ## Online Courses / Training
 
@@ -92,6 +102,8 @@
 #### Tracks     
 [Learn React](https://teamtreehouse.com/tracks/learn-react)      
 [Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development)    
+
+**[⬆ back to top](#table-of-contents)**      
 
 ## Books
 
@@ -121,8 +133,12 @@
 ### Productivity
 [Mini Habits](https://www.amazon.com/Mini-Habits-Smaller-Bigger-Results-ebook/dp/B00HGKNBDK)    
 
+**[⬆ back to top](#table-of-contents)**     
+
 ## Articles
-[What Happens When You Type google.com Into Your Browser and Press Enter?](https://github.com/alex/what-happens-when)    
+[What Happens When You Type google.com Into Your Browser and Press Enter?](https://github.com/alex/what-happens-when)   
+
+**[⬆ back to top](#table-of-contents)**     
 
 ## Tweets     
 [HTTP What?](https://twitter.com/kosamari/status/859958929484337152/photo/1)    
