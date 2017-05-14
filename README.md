@@ -81,16 +81,17 @@
 
 ## Online Courses / Training
 
-#### Udacity
+### Udacity
 
-##### Nanodegrees    
+#### Nanodegrees    
 [Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)            
 [Full Stack Web Developer](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)            
 
-##### Treehouse    
+### Treehouse    
 
-###### Tracks     
-[Treehouse](https://teamtreehouse.com)    
+#### Tracks     
+[Learn React](https://teamtreehouse.com/tracks/learn-react)      
+[Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development)    
 
 ## Books
 
