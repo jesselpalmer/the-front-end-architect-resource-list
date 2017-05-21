@@ -79,6 +79,7 @@
 [Interview Questions for front-end-Developer](http://thatjsdude.com/interview/index.html)    
 [Front End Web Development Quiz](http://davidshariff.com/quiz/)    
 [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)    
+[Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)     
 
 #### Practice Sites
 
