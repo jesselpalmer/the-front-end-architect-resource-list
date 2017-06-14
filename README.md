@@ -138,7 +138,7 @@
 
 ## Articles
 [What Happens When You Type google.com Into Your Browser and Press Enter?](https://github.com/alex/what-happens-when)   
-[https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c](A Guide to Becoming a Full-Stack Developer in 2017)    
+[A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)    
 
 **[⬆ back to top](#table-of-contents)**     
 
