@@ -144,7 +144,7 @@
 [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)    
 
 ## GitHub
-[Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)    
+[Become A Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)    
 
 **[⬆ back to top](#table-of-contents)**     
 
