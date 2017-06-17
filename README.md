@@ -80,6 +80,7 @@
 [Front End Web Development Quiz](http://davidshariff.com/quiz/)    
 [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)    
 [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)     
+[Been interviewing with a lot of tech startups as a frontend dev, here are the technical questions I've been asked](https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)     
 
 #### Practice Sites
 
