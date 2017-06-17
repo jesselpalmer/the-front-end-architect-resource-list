@@ -9,7 +9,7 @@
 1. [Nanodegrees](#nanodegrees)    
 1. [Books](#books)    
 1. [Articles](#articles)    
-1. [GitHub](#github)    
+1. [GitHub Learning List](#github-learning-list)    
 1. [Tweets](#tweets)    
 
 ## Websites
@@ -148,7 +148,9 @@
 [What Happens When You Type google.com Into Your Browser and Press Enter?](https://github.com/alex/what-happens-when)   
 [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)    
 
-## GitHub
+**[⬆ back to top](#table-of-contents)**   
+
+## GitHub Learning List
 [Become A Full Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)    
 [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)    
 
