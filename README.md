@@ -106,6 +106,7 @@
 #### Nanodegrees    
 [Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)            
 [Full Stack Web Developer](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)            
+[React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)      
 
 ### Treehouse    
 
@@ -146,8 +147,10 @@
 **[⬆ back to top](#table-of-contents)**     
 
 ## Articles
+(https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 [What Happens When You Type google.com Into Your Browser and Press Enter?](https://github.com/alex/what-happens-when)   
 [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)    
+[Front End Development Guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
 
 **[⬆ back to top](#table-of-contents)**   
 
