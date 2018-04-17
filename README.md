@@ -1,4 +1,4 @@
-# The Effective Web Engineer's Handbook    
+# Awesome Front End Architecture Handbook
 
 ## Table of Contents
 1. [Websites](#websites)    
