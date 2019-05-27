@@ -1,4 +1,4 @@
-# Awesome Front End Architecture Handbook
+# The Front End Architecture Handbook
 
 ## Table of Contents
 1. [Websites](#websites)    
