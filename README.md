@@ -145,6 +145,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 [JavaScript: The Good Parts](https://amzn.to/2MPGt6Y)  
 [Eloquent JavaScript](https://amzn.to/2IjCtre)  
+[Leaning JavaScript Design Patterns](https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1449331815)  
 
 ### Web Performance
 
