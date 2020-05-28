@@ -25,6 +25,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 ## Tools
 
 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)  
+[Google Tag Manager](https://tagmanager.google.com/)  
 
 **[⬆ back to top](#table-of-contents)**
 
