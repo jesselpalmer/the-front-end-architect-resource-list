@@ -17,8 +17,12 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 ## Websites
 
+### Web Development
 [Google Web Fundamentals](https://developers.google.com/web/)  
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/)  
+
+### Networking
+[How DNS Works](https://howdns.works/) 
 
 **[⬆ back to top](#table-of-contents)**
 
