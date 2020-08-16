@@ -44,20 +44,17 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 ### JavaScript
 
-[Pony Foo Weekly](https://ponyfoo.com/weekly)  
 [JavaScript Weekly](http://javascriptweekly.com/)  
 
 ### Web
 
-[O’Reilly Web Newsletter](http://www.oreilly.com/web-platform/newsletter.html)  
-
 ### Front End
 
-[FrontEnd Focus](http://frontendfocus.co/)  
+[FrontEnd Focus](https://frontendfoc.us/)  
 
 ### Mobile Web
 
-[Mobile Web Weekly](http://mobilewebweekly.co/)  
+[Mobile Web Weekly](http://mobilewebweekly.com/)  
 
 ### CSS
 
