@@ -30,6 +30,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 [Lighthouse](https://developers.google.com/web/tools/lighthouse/)  
 [Google Tag Manager](https://tagmanager.google.com/)  
+[Google Search Console](https://search.google.com/search-console)  
 
 **[⬆ back to top](#table-of-contents)**
 
