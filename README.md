@@ -19,6 +19,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 ### Web Development
 [Google Web Fundamentals](https://developers.google.com/web/)  
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/)  
+[web.dev](https://web.dev/)  
 
 ### JavaScript
 [javascript.info](https://javascript.info/)   
