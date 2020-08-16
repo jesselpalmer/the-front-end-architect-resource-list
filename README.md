@@ -22,7 +22,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/)  
 
 ### JavaScript
-[https://javascript.info/](https://javascript.info/)   
+[javascript.info](https://javascript.info/)   
 
 ### Browser Compatibility
 [CanIUse](https://caniuse.com/)   
