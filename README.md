@@ -47,17 +47,6 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 ## Newsletters
 
-### Leadership
-
-[Software Lead Weekly](http://softwareleadweekly.com/)  
-[Tech Leadership Weekly](http://www.techleadershipweekly.com/)  
-[Herding Cats](https://herdingcats.curated.co/)  
-[Monday Mailer](https://briangilham.com/newsletter/)  
-
-### Software Engineering
-
-[The Effective Engineer](http://www.theeffectiveengineer.com/)  
-
 ### JavaScript
 
 [Pony Foo Weekly](https://ponyfoo.com/weekly)  
@@ -79,13 +68,6 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 [CSS Weekly](http://css-weekly.com/)  
 
-### Design  
-
-[Sidebar](http://sidebar.io/)  
-
-### Node.js
-
-[Rising Stack](https://blog.risingstack.com/)  
 
 **[⬆ back to top](#table-of-contents)**  
 
