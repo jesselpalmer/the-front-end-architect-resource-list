@@ -1,4 +1,4 @@
-# The Front End Architecture Resources
+# Front End Architecture Resources
 
 The resources here are to help you build a strong foundation in becoming a well-rounded front end architect. This includes understanding HTML, CSS, and JavaScript as well as topics such as networking, software design, and design patterns.
 
