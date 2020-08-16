@@ -22,7 +22,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/)  
 
 ### Browser Compatibility
-[CanIUser](https://caniuse.com/)   
+[CanIUse](https://caniuse.com/)   
 
 ### Networking
 [How DNS Works](https://howdns.works/) 
