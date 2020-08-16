@@ -34,18 +34,6 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 **[⬆ back to top](#table-of-contents)**
 
-## Skill building
-
-### Vi
-
-[Open Vim](http://www.openvim.com/)  
-
-### Keyboarding
-
-[Type Fu](https://chrome.google.com/webstore/detail/type-fu/pofoighmmpljaikjiidkkfhldjndfdbk)  
-
-**[⬆ back to top](#table-of-contents)**  
-
 ## Newsletters
 
 ### JavaScript
