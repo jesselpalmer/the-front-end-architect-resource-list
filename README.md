@@ -6,7 +6,6 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 1. [Websites](#websites)  
 1. [Tools](#tools)  
-1. [Skill building](#skill-building)  
 1. [Newsletters](#newsletters)  
 1. [Interview Prep](#interview-prep)  
 1. [Nanodegrees](#nanodegrees)  
