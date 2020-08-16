@@ -159,34 +159,6 @@ The resources here are to help you build a strong foundation in becoming a well-
 [High Performance Browser Networking](https://amzn.to/2WLiTbb)  
 [Even Faster Web Sites Performance](https://amzn.to/2IE9VYg)  
 
-### Software Development
-
-[Mythical Man Month](https://amzn.to/2KRCZyf)  
-[Software Estimation: Demystifying the Black Art](https://amzn.to/2KPaxx2)  
-[Rapid Development: Taming Wild Software Schedules](https://amzn.to/2IieuIM)  
-[Pragmatic Thinking and Learning](https://amzn.to/2IhZDhC)  
-
-### Object-Oriented Design
-
-[Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)  
-[Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)  
-
-### Motivation
-
-[Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X)  
-[Outliers: The Story of Success](https://www.amazon.com/Outliers-Story-Success-Malcolm-Gladwell/dp/0316017930)
-
-### Writing
-
-[The Mircle Morning for Writers](https://www.amazon.com/Miracle-Morning-Writers-Writing-Increases/dp/1942589050)  
-
-### Finances
-
-[The Millionaire Booklet](https://www.amazon.com/The-Millionaire-Booklet/dp/B01IRTK2SU)
-
-### Productivity
-
-[Mini Habits](https://www.amazon.com/Mini-Habits-Smaller-Bigger-Results-ebook/dp/B00HGKNBDK)  
 
 **[⬆ back to top](#table-of-contents)**  
 
