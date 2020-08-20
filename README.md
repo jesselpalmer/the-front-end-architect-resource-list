@@ -21,6 +21,10 @@ The resources here are to help you build a strong foundation in becoming a well-
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/)  
 [web.dev](https://web.dev/)  
 
+### Standards
+[World Wide Web Consortium (W3C)](https://github.com/w3c)   
+[Ecma International, Technical Committee 39 - ECMAScript](https://github.com/tc39)
+
 ### JavaScript
 [javascript.info](https://javascript.info/)   
 
