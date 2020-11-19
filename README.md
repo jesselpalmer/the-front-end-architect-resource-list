@@ -75,9 +75,9 @@ The resources here are to help you build a strong foundation in becoming a well-
 [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)  
 [Cracking the front-end interview](https://medium.freecodecamp.com/cracking-the-front-end-interview-9a34cd46237)  
 [Been interviewing with a lot of tech startups as a frontend dev, here are the technical questions I've been asked](https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)  
-[Front End Job Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
-[5 Typical JavaScript Interview Exercises](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)
-[Front End Specific Coding Practice Questions & Problems](https://bigfrontend.dev/)
+[Front End Job Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)\
+[5 Typical JavaScript Interview Exercises](https://www.sitepoint.com/5-typical-javascript-interview-exercises/)\
+[Front End Specific Coding Practice Questions & Problems](https://bigfrontend.dev/)\
 [Eric Elliot's "Master the JavaScript Interview" Series](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 
 **[⬆ back to top](#table-of-contents)**  
@@ -96,7 +96,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 #### Tracks
 
-[Learn React](https://teamtreehouse.com/tracks/learn-react)
+[Learn React](https://teamtreehouse.com/tracks/learn-react)\
 [Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development)  
 
 **[⬆ back to top](#table-of-contents)**  
@@ -117,7 +117,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 [Even Faster Web Sites Performance](https://amzn.to/2IE9VYg)  
 
 ### Algorithms & Data Structures
-[Algorithm Design Manual (Free PDF)](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)
+[Algorithm Design Manual (Free PDF)](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)\
 [Algorithm Design Manual (Book)](https://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
 
 
@@ -127,7 +127,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 [What Happens When You Type google.com Into Your Browser and Press Enter?](https://github.com/alex/what-happens-when)  
 [A Guide to Becoming a Full-Stack Developer in 2017](https://medium.com/coderbyte/a-guide-to-becoming-a-full-stack-developer-in-2017-5c3c08a1600c)  
-[Our entire team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)
+[Our entire team of engineers use this front end development guide](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)\
 [Lydia Hallie's "JavaScript Visualized" Series' Articles](https://dev.to/lydiahallie/series/3341)
 
 **[⬆ back to top](#table-of-contents)**
