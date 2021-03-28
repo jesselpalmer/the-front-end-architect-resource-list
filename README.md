@@ -31,9 +31,10 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 [javascript.info](https://javascript.info/)
 
-### Browser Compatibility
+### Compatibility Tables
 
-[CanIUse](https://caniuse.com/)
+[CanIUse](https://caniuse.com/)\
+[ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es6/)
 
 ### Networking
 
