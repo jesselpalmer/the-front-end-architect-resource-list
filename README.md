@@ -25,6 +25,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 ### Standards
 
 [World Wide Web Consortium (W3C)](https://github.com/w3c)\
+[ECMA-262 specification](ecma-international.org/publications-and-standards/standards/ecma-262/)\
 [Ecma International, Technical Committee 39 - ECMAScript](https://github.com/tc39)
 
 ### JavaScript
