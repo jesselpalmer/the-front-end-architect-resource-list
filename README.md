@@ -40,7 +40,10 @@ The resources here are to help you build a strong foundation in becoming a well-
 ### Networking
 
 [How DNS Works](https://howdns.works/)\
-[What is a CDN](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+[What is a CDN](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)  
+
+### Performance
+[Measure performance with the RAIL model](https://web.dev/rail/)\
 
 **[⬆ back to top](#table-of-contents)**
 
