@@ -37,13 +37,14 @@ The resources here are to help you build a strong foundation in becoming a well-
 [CanIUse](https://caniuse.com/)\
 [ECMAScript Compatibility Table](https://kangax.github.io/compat-table/es6/)
 
+### Performance
+[Measure performance with the RAIL model](https://web.dev/rail/)\
+[Apply instant loading with the PRPL pattern](https://web.dev/apply-instant-loading-with-prpl/)
+
 ### Networking
 
 [How DNS Works](https://howdns.works/)\
 [What is a CDN](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)  
-
-### Performance
-[Measure performance with the RAIL model](https://web.dev/rail/)\
 
 **[⬆ back to top](#table-of-contents)**
 
