@@ -41,6 +41,9 @@ The resources here are to help you build a strong foundation in becoming a well-
 [Measure performance with the RAIL model](https://web.dev/rail/)\
 [Apply instant loading with the PRPL pattern](https://web.dev/apply-instant-loading-with-prpl/)
 
+### Browser
+[Inside look at modern web browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+
 ### Networking
 
 [How DNS Works](https://howdns.works/)\
