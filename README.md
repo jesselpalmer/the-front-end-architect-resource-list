@@ -113,6 +113,11 @@ The resources here are to help you build a strong foundation in becoming a well-
 [Learn React](https://teamtreehouse.com/tracks/learn-react)\
 [Front End Web Development](https://teamtreehouse.com/tracks/front-end-web-development)
 
+## Scaler
+
+[Learn Web Development](https://www.scaler.com/courses/web-development/)
+
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Books
