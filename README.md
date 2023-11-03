@@ -135,6 +135,9 @@ The resources here are to help you build a strong foundation in becoming a well-
 [Algorithm Design Manual (Free PDF)](https://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf)\
 [Algorithm Design Manual (Book)](https://www.amazon.com/Algorithm-Design-Manual-Steve-Skiena/dp/0387948600)
 
+### Design Patterns
+[Learning JavaScript Design Patterns](https://www.amazon.com/Learning-JavaScript-Design-Patterns-Developers/dp/1098139879)\
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Articles
