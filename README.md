@@ -104,7 +104,7 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 [Front End Web Developer](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)\
 [Full Stack Web Developer](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004)\
-[React Nanodegree](https://www.udacity.com/course/react-nanodegree--nd019)
+[React](https://www.udacity.com/course/react-nanodegree--nd019)
 
 ### Treehouse
 
