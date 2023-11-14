@@ -72,10 +72,6 @@ The resources here are to help you build a strong foundation in becoming a well-
 
 [FrontEnd Focus](https://frontendfoc.us/)
 
-### Mobile Web
-
-[Mobile Web Weekly](http://mobilewebweekly.com/)
-
 ### CSS
 
 [CSS Weekly](http://css-weekly.com/)
